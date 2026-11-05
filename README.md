@@ -26,3 +26,9 @@ brew upgrade flipfile
 ```bash
 brew uninstall --cask flipfile
 ```
+
+## Documentation & Support
+
+- Project repository: [wcksnrdn/flipfile](https://github.com/wcksnrdn/flipfile)
+- Latest Releases: [Releases](https://github.com/wcksnrdn/flipfile/releases)
+- Report issues: [Issues](https://github.com/wcksnrdn/homebrew-tap/issues)
